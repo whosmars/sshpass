@@ -9,10 +9,6 @@ Before you start, make sure you have `sshpass` installed on your system. You can
 ```bash
 sudo apt-get update
 sudo apt-get install sshpass
-
-#Then we will able the execution of the bash script
-
-```bash
 chmod +x ./script2.sh
 
 
